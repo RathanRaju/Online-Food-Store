@@ -1,2 +1,2 @@
-# Rathan07
+# OMNIFOODS Online Food Shopping
 Projects
