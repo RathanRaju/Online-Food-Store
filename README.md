@@ -2,7 +2,7 @@
 
 * Created an dummy online food shopping website using HTML and CSS
 
-### Code and Resources Used
+## Code and Resources Used
 
 **Programming Languages -** HTML, CSS and JavaScript.
 
