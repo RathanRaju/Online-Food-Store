@@ -1,2 +1,3 @@
 # OMNIFOODS Online Food Shopping
-Projects
+
+* Created an dummy online food shopping website using HTML and CSS
