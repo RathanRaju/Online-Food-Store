@@ -1,5 +1,7 @@
 # OMNIFOODS Online Food Shopping
 
+![alt text](https://github.com/RathanRaju/Online-Food-Store/blob/master/Resources/img/logo.png "Logo")
+
 * Created an dummy online food shopping website using HTML and CSS
 
 ## Code and Resources Used
